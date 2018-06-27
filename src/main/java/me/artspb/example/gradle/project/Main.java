@@ -3,7 +3,7 @@ package me.artspb.example.gradle.project;
 public class Main {
 
     public static void main(String[] args) {
-        sayHello(format());
+        sayHello(format())
     }
 
     private static String format() {
